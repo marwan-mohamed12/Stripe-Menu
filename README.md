@@ -1,7 +1,8 @@
 # Stripe Menu and Sidebar Menu using React.js
 
 This project implements a Stripe menu and a Sidebar menu using React.js. The Stripe menu appears when you hover over the navigation links, and disappears when you leave it. The Sidebar menu allows you to toggle the menu on and off.
-. <a href="https://stripemenu-react.netlify.app/">Live Demo</a>
+Note: Stripe menu will only show on large screens
+<a href="https://stripemenu-react.netlify.app/">Live Demo</a>
 
 ## Installation
 
