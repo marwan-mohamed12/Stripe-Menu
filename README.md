@@ -10,8 +10,9 @@ To use this project, follow these steps:
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
 3. Run npm install to install the necessary dependencies.
-4. Run npm start to start the development server.
-5. Open your browser and go to http://localhost:5173 to view the project.
+4. Run npm install react-icons --save to install react icons
+5. Run npm run dev to start the development server.
+6. Open your browser and go to http://localhost:5173 to view the project.
 
 ## Usage
 
